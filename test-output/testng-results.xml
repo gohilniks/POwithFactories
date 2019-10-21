@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model with Page Factories" duration-ms="177344" started-at="2019-10-21T09:45:23Z" finished-at="2019-10-21T09:48:20Z">
+    <groups>
+    </groups>
+    <test name="Sign In Test" duration-ms="52238" started-at="2019-10-21T09:45:23Z" finished-at="2019-10-21T09:46:15Z">
+      <class name="com.nbg.testcases.SignInTest">
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:com.nbg.testcases.SignInTest@614ddd49]" name="signInTest" duration-ms="52207" started-at="2019-10-21T09:45:23Z" finished-at="2019-10-21T09:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+      </class> <!-- com.nbg.testcases.SignInTest -->
+    </test> <!-- Sign In Test -->
+    <test name="Flight Search Test" duration-ms="125063" started-at="2019-10-21T09:46:15Z" finished-at="2019-10-21T09:48:20Z">
+      <class name="com.nbg.testcases.FlightSearchTest">
+        <test-method status="PASS" signature="flightSearchTest()[pri:0, instance:com.nbg.testcases.FlightSearchTest@1b68ddbd]" name="flightSearchTest" duration-ms="125059" started-at="2019-10-21T09:46:15Z" finished-at="2019-10-21T09:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearchTest -->
+      </class> <!-- com.nbg.testcases.FlightSearchTest -->
+    </test> <!-- Flight Search Test -->
+  </suite> <!-- Page Object Model with Page Factories -->
+</testng-results>

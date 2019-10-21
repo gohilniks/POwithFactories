@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sign In Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="52.207">
+  <properties />
+  
+  
+            <testcase name="signInTest" time="52.207" classname="com.nbg.testcases.SignInTest" />
+      
+</testsuite>

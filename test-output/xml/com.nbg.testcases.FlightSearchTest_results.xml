@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Flight Search Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="125.059">
+  <properties />
+  
+  
+            <testcase name="flightSearchTest" time="125.059" classname="com.nbg.testcases.FlightSearchTest" />
+      
+</testsuite>
