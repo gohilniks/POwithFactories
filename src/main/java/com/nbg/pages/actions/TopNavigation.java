@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 
+import com.nbg.base.Page;
 import com.nbg.pages.locators.TopNavigationLocators;
 
 public class TopNavigation {
@@ -14,8 +15,8 @@ public class TopNavigation {
 		PageFactory.initElements(factory, this.topNavigation);
 	}
 	public SigninPage gotoSignIn() {
-		topNavigation.account.click();
-		topNavigation.signinBtn.click();
+		Page.click(topNavigation.account);
+		Page.click(topNavigation.signinBtn);
 		return new SigninPage();
 	}
 

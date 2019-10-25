@@ -1,5 +1,7 @@
 package com.nbg.pages.locators;
 
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -28,4 +30,7 @@ public class HomePageLocators {
 	
 	@FindBy(css="#hero-banner")
 	public WebElement block;
+	
+	@FindBy(css = "ul.tabs.cf.col > li")
+	public List<WebElement> tabCount;
 }

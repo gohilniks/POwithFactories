@@ -627,3 +627,114 @@
 11/10/2019 10:57:44.372 [com.nbg.base.Page] DEBUG com.nbg.base.Page:131 - Clicking on an Element : createaccountbtn
 11/10/2019 10:57:47.742 [com.nbg.base.Page] DEBUG com.nbg.base.Page:153 - Type in an Element : accountname entered value as : Nikunj
 11/10/2019 10:57:47.742 [com.nbg.testcases.CreateAccountTest] DEBUG com.nbg.base.Page:25 - Create Account Test Completed
+25/10/2019 10:30:35.660 [com.nbg.base.Page] DEBUG com.nbg.base.Page:53 - Chrome launched
+25/10/2019 10:30:42.967 [com.nbg.base.Page] DEBUG com.nbg.base.Page:67 - Navigated to https://www.expedia.co.in/
+25/10/2019 10:30:52.531 [com.nbg.base.Page] DEBUG com.nbg.base.Page:53 - Chrome launched
+25/10/2019 10:30:59.138 [com.nbg.base.Page] DEBUG com.nbg.base.Page:67 - Navigated to https://www.expedia.co.in/
+25/10/2019 11:15:07.185 [com.nbg.base.Page] DEBUG com.nbg.base.Page:54 - Chrome launched
+25/10/2019 11:15:13.999 [com.nbg.base.Page] DEBUG com.nbg.base.Page:68 - Navigated to https://www.expedia.co.in/
+25/10/2019 11:15:14.347 [com.nbg.base.Page] DEBUG com.nbg.base.Page:75 - Clicking on an Element : [[ChromeDriver: chrome on XP (bd941bd4e5423a65bd3def3803bcffe7)] -> css selector: #header-account-menu]
+25/10/2019 11:15:14.641 [com.nbg.base.Page] DEBUG com.nbg.base.Page:75 - Clicking on an Element : [[ChromeDriver: chrome on XP (bd941bd4e5423a65bd3def3803bcffe7)] -> css selector: #account-signin]
+25/10/2019 11:15:18.345 [com.nbg.base.Page] DEBUG com.nbg.base.Page:75 - Clicking on an Element : [[ChromeDriver: chrome on XP (bd941bd4e5423a65bd3def3803bcffe7)] -> css selector: #gss-signin-submit]
+25/10/2019 11:15:21.932 [com.nbg.base.Page] DEBUG com.nbg.base.Page:54 - Chrome launched
+25/10/2019 11:15:28.077 [com.nbg.base.Page] DEBUG com.nbg.base.Page:68 - Navigated to https://www.expedia.co.in/
+25/10/2019 11:15:28.566 [com.nbg.base.Page] DEBUG com.nbg.base.Page:75 - Clicking on an Element : [[ChromeDriver: chrome on XP (c46475491bf98a62bac2c6b6178de61b)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 11:15:33.141 [com.nbg.base.Page] DEBUG com.nbg.base.Page:75 - Clicking on an Element : [[ChromeDriver: chrome on XP (c46475491bf98a62bac2c6b6178de61b)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 11:15:33.663 [com.nbg.base.Page] DEBUG com.nbg.base.Page:75 - Clicking on an Element : [[ChromeDriver: chrome on XP (c46475491bf98a62bac2c6b6178de61b)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]
+25/10/2019 11:23:33.720 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Chrome launched
+25/10/2019 11:23:41.120 [com.nbg.base.Page] DEBUG com.nbg.base.Page:70 - Navigated to https://www.expedia.co.in/
+25/10/2019 11:23:41.398 [com.nbg.base.Page] DEBUG com.nbg.base.Page:77 - Clicking on an Element : [[ChromeDriver: chrome on XP (b3de495a62a90898a7a2c4329bc282a2)] -> css selector: #header-account-menu]
+25/10/2019 11:23:41.796 [com.nbg.base.Page] DEBUG com.nbg.base.Page:77 - Clicking on an Element : [[ChromeDriver: chrome on XP (b3de495a62a90898a7a2c4329bc282a2)] -> css selector: #account-signin]
+25/10/2019 11:23:46.191 [com.nbg.base.Page] DEBUG com.nbg.base.Page:77 - Clicking on an Element : [[ChromeDriver: chrome on XP (b3de495a62a90898a7a2c4329bc282a2)] -> css selector: #gss-signin-submit]
+25/10/2019 11:23:50.818 [com.nbg.base.Page] DEBUG com.nbg.base.Page:56 - Chrome launched
+25/10/2019 11:23:57.651 [com.nbg.base.Page] DEBUG com.nbg.base.Page:70 - Navigated to https://www.expedia.co.in/
+25/10/2019 11:23:59.706 [com.nbg.base.Page] DEBUG com.nbg.base.Page:77 - Clicking on an Element : [[ChromeDriver: chrome on XP (4d926508d34f93943abb6002cb6cad47)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 11:24:04.959 [com.nbg.base.Page] DEBUG com.nbg.base.Page:77 - Clicking on an Element : [[ChromeDriver: chrome on XP (4d926508d34f93943abb6002cb6cad47)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 11:24:05.331 [com.nbg.base.Page] DEBUG com.nbg.base.Page:77 - Clicking on an Element : [[ChromeDriver: chrome on XP (4d926508d34f93943abb6002cb6cad47)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]
+25/10/2019 11:42:50.920 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 11:42:58.177 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 11:42:58.476 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (1c7d13dc34732e18b7384aec24f6a245)] -> css selector: #header-account-menu]
+25/10/2019 11:42:59.060 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (1c7d13dc34732e18b7384aec24f6a245)] -> css selector: #account-signin]
+25/10/2019 11:43:04.881 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (1c7d13dc34732e18b7384aec24f6a245)] -> css selector: #gss-signin-email] entered value as : acfsfe@gmail.com
+25/10/2019 11:43:05.268 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (1c7d13dc34732e18b7384aec24f6a245)] -> css selector: #gss-signin-password] entered value as : Test@123
+25/10/2019 11:43:05.531 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (1c7d13dc34732e18b7384aec24f6a245)] -> css selector: #gss-signin-submit]
+25/10/2019 11:43:09.357 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 11:43:16.662 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 11:43:18.385 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (46a2fe959f77df0dd32ab2dc77e3f6f3)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 11:43:20.780 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (46a2fe959f77df0dd32ab2dc77e3f6f3)] -> css selector: #flight-origin-hp-flight] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+25/10/2019 11:43:22.549 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (46a2fe959f77df0dd32ab2dc77e3f6f3)] -> css selector: #flight-destination-hp-flight] entered value as : Mumbai, India (BOM-Chhatrapati Shivaji Intl.)
+25/10/2019 11:43:23.082 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (46a2fe959f77df0dd32ab2dc77e3f6f3)] -> css selector: #flight-departing-hp-flight] entered value as : 21/10/2019
+25/10/2019 11:43:23.464 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (46a2fe959f77df0dd32ab2dc77e3f6f3)] -> css selector: #flight-returning-hp-flight] entered value as : 23/10/2019
+25/10/2019 11:43:23.612 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (46a2fe959f77df0dd32ab2dc77e3f6f3)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 11:43:24.016 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (46a2fe959f77df0dd32ab2dc77e3f6f3)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]
+25/10/2019 12:40:49.507 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 12:40:56.197 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 12:40:56.510 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (972228a310b37c83d2a1f17ba6f6166e)] -> css selector: #header-account-menu]
+25/10/2019 12:40:57.129 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (972228a310b37c83d2a1f17ba6f6166e)] -> css selector: #account-signin]
+25/10/2019 12:41:00.529 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (972228a310b37c83d2a1f17ba6f6166e)] -> css selector: #gss-signin-email] entered value as : nikunjgohil@techhive.co.in
+25/10/2019 12:41:00.946 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (972228a310b37c83d2a1f17ba6f6166e)] -> css selector: #gss-signin-password] entered value as : Techhive@123
+25/10/2019 12:41:01.163 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (972228a310b37c83d2a1f17ba6f6166e)] -> css selector: #gss-signin-submit]
+25/10/2019 12:41:05.599 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 12:41:13.048 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 12:41:13.285 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (c4fe4b3684dd10ef95cf8eea501eb77f)] -> css selector: #header-account-menu]
+25/10/2019 12:41:13.805 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (c4fe4b3684dd10ef95cf8eea501eb77f)] -> css selector: #account-signin]
+25/10/2019 12:41:17.051 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (c4fe4b3684dd10ef95cf8eea501eb77f)] -> css selector: #gss-signin-email] entered value as : nikunjgohil@techhive.co.in
+25/10/2019 12:41:17.494 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (c4fe4b3684dd10ef95cf8eea501eb77f)] -> css selector: #gss-signin-password] entered value as : Techhive@123
+25/10/2019 12:41:17.715 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (c4fe4b3684dd10ef95cf8eea501eb77f)] -> css selector: #gss-signin-submit]
+25/10/2019 12:41:21.292 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 12:41:28.304 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 12:41:30.024 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (4b6707d576aa05fa5d0c5eab9b20d245)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 12:41:32.221 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (4b6707d576aa05fa5d0c5eab9b20d245)] -> css selector: #flight-origin-hp-flight] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+25/10/2019 12:41:33.763 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (4b6707d576aa05fa5d0c5eab9b20d245)] -> css selector: #flight-destination-hp-flight] entered value as : Mumbai, India (BOM-Chhatrapati Shivaji Intl.)
+25/10/2019 12:41:34.223 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (4b6707d576aa05fa5d0c5eab9b20d245)] -> css selector: #flight-departing-hp-flight] entered value as : 10/21/19
+25/10/2019 12:41:34.507 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (4b6707d576aa05fa5d0c5eab9b20d245)] -> css selector: #flight-returning-hp-flight] entered value as : 10/23/19
+25/10/2019 12:41:34.624 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (4b6707d576aa05fa5d0c5eab9b20d245)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 12:41:35.049 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (4b6707d576aa05fa5d0c5eab9b20d245)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]
+25/10/2019 12:44:57.029 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 12:45:05.252 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 12:45:05.581 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (d803e76130133a7a01129890d51c4783)] -> css selector: #header-account-menu]
+25/10/2019 12:45:06.089 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (d803e76130133a7a01129890d51c4783)] -> css selector: #account-signin]
+25/10/2019 12:45:08.154 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (d803e76130133a7a01129890d51c4783)] -> css selector: #gss-signin-email] entered value as : abc@techhive.co.in
+25/10/2019 12:45:08.463 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (d803e76130133a7a01129890d51c4783)] -> css selector: #gss-signin-password] entered value as : Tech@123
+25/10/2019 12:45:08.673 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (d803e76130133a7a01129890d51c4783)] -> css selector: #gss-signin-submit]
+25/10/2019 12:45:11.983 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 12:45:18.800 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 12:45:20.474 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (100e84fac63e3c68beb91ccc162721c5)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 12:45:22.722 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (100e84fac63e3c68beb91ccc162721c5)] -> css selector: #flight-origin-hp-flight] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+25/10/2019 12:45:24.576 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (100e84fac63e3c68beb91ccc162721c5)] -> css selector: #flight-destination-hp-flight] entered value as : Mumbai, India (BOM-Chhatrapati Shivaji Intl.)
+25/10/2019 12:45:25.040 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (100e84fac63e3c68beb91ccc162721c5)] -> css selector: #flight-departing-hp-flight] entered value as : 10/21/19
+25/10/2019 12:45:25.336 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (100e84fac63e3c68beb91ccc162721c5)] -> css selector: #flight-returning-hp-flight] entered value as : 10/23/19
+25/10/2019 12:45:25.509 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (100e84fac63e3c68beb91ccc162721c5)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 12:45:26.095 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (100e84fac63e3c68beb91ccc162721c5)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]
+25/10/2019 14:22:26.863 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 14:22:33.601 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 14:22:33.938 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (d6fdc17beadb1e492e1f8292c565ae38)] -> css selector: #header-account-menu]
+25/10/2019 14:22:34.252 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (d6fdc17beadb1e492e1f8292c565ae38)] -> css selector: #account-signin]
+25/10/2019 14:22:37.735 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (d6fdc17beadb1e492e1f8292c565ae38)] -> css selector: #gss-signin-email] entered value as : abc@techhive.co.in
+25/10/2019 14:22:38.015 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (d6fdc17beadb1e492e1f8292c565ae38)] -> css selector: #gss-signin-password] entered value as : Tech@123
+25/10/2019 14:22:38.163 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (d6fdc17beadb1e492e1f8292c565ae38)] -> css selector: #gss-signin-submit]
+25/10/2019 14:22:41.342 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 14:22:47.595 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 14:22:48.995 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (0aeb9ca179d98b3ea61fc6d0a98ff132)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 14:22:50.556 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (0aeb9ca179d98b3ea61fc6d0a98ff132)] -> css selector: #flight-origin-hp-flight] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+25/10/2019 14:22:51.753 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (0aeb9ca179d98b3ea61fc6d0a98ff132)] -> css selector: #flight-destination-hp-flight] entered value as : Mumbai, India (BOM-Chhatrapati Shivaji Intl.)
+25/10/2019 14:22:52.055 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (0aeb9ca179d98b3ea61fc6d0a98ff132)] -> css selector: #flight-departing-hp-flight] entered value as : 10/21/19
+25/10/2019 14:22:52.249 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (0aeb9ca179d98b3ea61fc6d0a98ff132)] -> css selector: #flight-returning-hp-flight] entered value as : 10/23/19
+25/10/2019 14:22:52.336 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (0aeb9ca179d98b3ea61fc6d0a98ff132)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 14:22:52.681 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (0aeb9ca179d98b3ea61fc6d0a98ff132)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]
+25/10/2019 14:30:55.148 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 14:31:01.555 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 14:31:01.756 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (018c28bcaff450f56e94c75c7b0da203)] -> css selector: #header-account-menu]
+25/10/2019 14:31:01.933 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (018c28bcaff450f56e94c75c7b0da203)] -> css selector: #account-signin]
+25/10/2019 14:31:03.085 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (018c28bcaff450f56e94c75c7b0da203)] -> css selector: #gss-signin-email] entered value as : abc@techhive.co.in
+25/10/2019 14:31:04.739 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (018c28bcaff450f56e94c75c7b0da203)] -> css selector: #gss-signin-password] entered value as : Tech@123
+25/10/2019 14:31:04.876 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (018c28bcaff450f56e94c75c7b0da203)] -> css selector: #gss-signin-submit]
+25/10/2019 14:31:07.806 [com.nbg.base.Page] DEBUG com.nbg.base.Page:57 - Chrome launched
+25/10/2019 14:31:14.324 [com.nbg.base.Page] DEBUG com.nbg.base.Page:71 - Navigated to https://www.expedia.co.in/
+25/10/2019 14:31:15.536 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (aaff96c0062a9fa55ab628cd9d98cd2c)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 14:31:16.824 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (aaff96c0062a9fa55ab628cd9d98cd2c)] -> css selector: #flight-origin-hp-flight] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+25/10/2019 14:31:17.892 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (aaff96c0062a9fa55ab628cd9d98cd2c)] -> css selector: #flight-destination-hp-flight] entered value as : Mumbai, India (BOM-Chhatrapati Shivaji Intl.)
+25/10/2019 14:31:18.326 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (aaff96c0062a9fa55ab628cd9d98cd2c)] -> css selector: #flight-departing-hp-flight] entered value as : 10/21/19
+25/10/2019 14:31:18.529 [com.nbg.base.Page] DEBUG com.nbg.base.Page:84 - Type in an Element : [[ChromeDriver: chrome on XP (aaff96c0062a9fa55ab628cd9d98cd2c)] -> css selector: #flight-returning-hp-flight] entered value as : 10/23/19
+25/10/2019 14:31:18.617 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (aaff96c0062a9fa55ab628cd9d98cd2c)] -> css selector: #tab-flight-tab-hp]
+25/10/2019 14:31:18.899 [com.nbg.base.Page] DEBUG com.nbg.base.Page:78 - Clicking on an Element : [[ChromeDriver: chrome on XP (aaff96c0062a9fa55ab628cd9d98cd2c)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]

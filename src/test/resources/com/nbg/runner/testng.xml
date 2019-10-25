@@ -5,7 +5,7 @@
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener
 			class-name="org.uncommons.reportng.JUnitXMLReporter" />
-		<!-- <listener class-name="com.nbg.listeners.CustomListeners" /> -->
+		<listener class-name="com.nbg.listeners.CustomListeners" />
 	</listeners>
 
 	<test name="Sign In Test">
@@ -13,7 +13,7 @@
 			<class name="com.nbg.testcases.SignInTest" />
 		</classes>
 	</test> <!-- Test -->
-	
+
 	<test name="Flight Search Test">
 		<classes>
 			<class name="com.nbg.testcases.FlightSearchTest" />

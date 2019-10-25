@@ -5,17 +5,24 @@ import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+import org.testng.Reporter;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.MediaEntityBuilder;
+import com.aventstack.extentreports.Status;
 import com.nbg.pages.actions.TopNavigation;
 import com.nbg.utilities.ExcelReader;
 import com.nbg.utilities.ExtentManager;
+import com.nbg.utilities.Utilities;
 
 public class Page {
 	public static WebDriver driver;
@@ -64,6 +71,56 @@ public class Page {
 		log.debug("Navigated to " + Constants.testsiteurl);
 		topNav = new TopNavigation(driver);
 		wait = new WebDriverWait(driver, 15);
+	}
+
+	public static void click(WebElement element) {
+		element.click();
+		log.debug("Clicking on an Element : " + element);
+		test.log(Status.INFO, "Clicking on : " + element);
+	}
+	
+	public static void type(WebElement element, String value) {
+		element.sendKeys(value);
+		log.debug("Type in an Element : " + element + " entered value as : " + value);
+		test.log(Status.INFO, "Type in : " + element + " entered value as " + value);
+	}
+	
+
+	public static void verifyEquals(String actual, String expected) throws Exception {
+		try {
+			Assert.assertEquals(actual, expected);
+		} catch (Throwable t) {
+			// TestUtil.captureScreenshot();
+			/* ReportNG */
+			Reporter.log("</br>" + "Verification failure : " + t.getMessage() + "</br>");
+			// Reporter.log("<a target=\"_blank\" href=" + TestUtil.screenshotName + "><img
+			// height=200 width=200 src="
+			// + TestUtil.screenshotName + "></img> </a>");
+			// Reporter.log("</br>");
+			// Reporter.log("</br>");
+
+			test.log(Status.FAIL, " Verification Failed with exception : " + t.getMessage());
+			// test.log(Status.FAIL, "Test Fail",
+			// MediaEntityBuilder.createScreenCaptureFromPath(TestUtil.screenshotName).build());
+		}
+	}
+
+	public static void verifyEquals(int actual, int expected) throws Exception {
+		try {
+			Assert.assertEquals(actual, expected);
+		} catch (Throwable t) {
+			Utilities.captureScreenshot();
+			/* ReportNG */
+			Reporter.log("</br>" + "Verification failure : " + t.getMessage() + "</br>");
+			Reporter.log("<a target=\"_blank\" href=" + Utilities.screenshotName + "><img height=200 width=200 src="
+			+ Utilities.screenshotName + "></img> </a>");
+			Reporter.log("</br>");
+			Reporter.log("</br>");
+
+			test.log(Status.FAIL, " Verification Failed with exception : " + t.getMessage());
+			test.log(Status.INFO, "Test Fail",
+			MediaEntityBuilder.createScreenCaptureFromPath(Utilities.screenshotName).build());
+		}
 	}
 
 	public static void quitBrowser() {
