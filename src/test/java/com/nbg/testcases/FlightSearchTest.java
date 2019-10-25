@@ -11,7 +11,6 @@ import com.nbg.pages.actions.HomePage;
 import com.nbg.utilities.Utilities;
 
 public class FlightSearchTest {
-
 	@Test(dataProviderClass = Utilities.class, dataProvider = "dp")
 	public void flightSearchTest(Hashtable<String, String> data) throws Exception {
 		if (data.get("runmode").equalsIgnoreCase("N")) {
